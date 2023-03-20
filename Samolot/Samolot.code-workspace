@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "test",
+			"path": "../test"
+		},
+		{
+			"name": "modulGPS",
+			"path": "C:/Users/Ja/Documents/PlatformIO/Projects/modulGPS"
+		},
+		{
+			"name": "modulGPS",
+			"path": "../modulGPS"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"string": "cpp",
+			"string_view": "cpp",
+			"*.tcc": "cpp",
+			"random": "cpp"
+		}
+	}
+}
